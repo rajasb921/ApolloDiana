@@ -14,10 +14,14 @@ To compile the program, use the following command. Make sure the maze to be solv
   g++ -std=c++11 *.cpp -o maze
 ```
 
-Test the code using:
+Test the code using one of the following:
 
 ```bash
     ./maze
+```
+or
+```bash
+    ./maze.exe
 ```
 
 
