@@ -256,6 +256,7 @@ void Graph::writePath(const std::string &filename) {
     std::ofstream outfile;
     outfile.open(filename);
 
+    std::cout << "Path: ";
     for (int i = 0; path[i]->getColor() != "O"; i++) {
         int d = distance(path[i], path[i + 1]);
         std::cout << d << path[i]->getDirection() << " ";
