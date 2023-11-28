@@ -1,7 +1,7 @@
 
 # Apollo and Diana Maze Solver
 
-This project takes an Apollo and Diana maze text file as an input, and writes the solution to the maze to the output.txt file.
+This project takes an Apollo and Diana maze text file as an input, and writes the solution for the maze to the output.txt file.
 
 ## Running The Program
 
